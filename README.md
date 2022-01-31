@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+https://focused-euclid-2e23c4.netlify.app
 
 # HTML and CSS Assessment
 
